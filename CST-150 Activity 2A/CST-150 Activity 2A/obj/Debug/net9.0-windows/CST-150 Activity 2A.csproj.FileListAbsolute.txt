@@ -1,0 +1,16 @@
+C:\Users\David\source\repos\CST-150 Activity 2A\CST-150 Activity 2A\bin\Debug\net9.0-windows\CST-150 Activity 2A.exe
+C:\Users\David\source\repos\CST-150 Activity 2A\CST-150 Activity 2A\bin\Debug\net9.0-windows\CST-150 Activity 2A.deps.json
+C:\Users\David\source\repos\CST-150 Activity 2A\CST-150 Activity 2A\bin\Debug\net9.0-windows\CST-150 Activity 2A.runtimeconfig.json
+C:\Users\David\source\repos\CST-150 Activity 2A\CST-150 Activity 2A\bin\Debug\net9.0-windows\CST-150 Activity 2A.dll
+C:\Users\David\source\repos\CST-150 Activity 2A\CST-150 Activity 2A\bin\Debug\net9.0-windows\CST-150 Activity 2A.pdb
+C:\Users\David\source\repos\CST-150 Activity 2A\CST-150 Activity 2A\obj\Debug\net9.0-windows\CST_150_Activity_2A.FrmSeconds.resources
+C:\Users\David\source\repos\CST-150 Activity 2A\CST-150 Activity 2A\obj\Debug\net9.0-windows\CST-150 Activity 2A.csproj.GenerateResource.cache
+C:\Users\David\source\repos\CST-150 Activity 2A\CST-150 Activity 2A\obj\Debug\net9.0-windows\CST-150 Activity 2A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\source\repos\CST-150 Activity 2A\CST-150 Activity 2A\obj\Debug\net9.0-windows\CST-150 Activity 2A.AssemblyInfoInputs.cache
+C:\Users\David\source\repos\CST-150 Activity 2A\CST-150 Activity 2A\obj\Debug\net9.0-windows\CST-150 Activity 2A.AssemblyInfo.cs
+C:\Users\David\source\repos\CST-150 Activity 2A\CST-150 Activity 2A\obj\Debug\net9.0-windows\CST-150 Activity 2A.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\CST-150 Activity 2A\CST-150 Activity 2A\obj\Debug\net9.0-windows\CST-150 Activity 2A.dll
+C:\Users\David\source\repos\CST-150 Activity 2A\CST-150 Activity 2A\obj\Debug\net9.0-windows\refint\CST-150 Activity 2A.dll
+C:\Users\David\source\repos\CST-150 Activity 2A\CST-150 Activity 2A\obj\Debug\net9.0-windows\CST-150 Activity 2A.pdb
+C:\Users\David\source\repos\CST-150 Activity 2A\CST-150 Activity 2A\obj\Debug\net9.0-windows\CST-150 Activity 2A.genruntimeconfig.cache
+C:\Users\David\source\repos\CST-150 Activity 2A\CST-150 Activity 2A\obj\Debug\net9.0-windows\ref\CST-150 Activity 2A.dll
